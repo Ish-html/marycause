@@ -61,7 +61,6 @@
         <a href="login.html" class="login-link">Login</a>
     </header>
 
-    <nav>
-    
+  
 </body>
 </html>
