@@ -62,23 +62,6 @@
     </header>
 
     <nav>
-        <a href="home.html">Home</a>
-        <a href="about.html">About Us</a>
-        <a href="services.html">Services</a>
-        <a href="events.html">Events</a>
-        <a href="donate.html">Donate</a>
-        <a href="contact.html">Contact Us</a>
-        
-    </nav>
-
-    <div class="container">
-        <h2>Welcome to Our Church</h2>
-        <p>We are delighted to have you visit our website. Here you will find information about our church, upcoming events, services, and ways to get involved in our ministry.</p>
-        <img src="church.jpg" alt="Church Image" width="80%">
-    </div>
-
-    <footer>
-        <p>&copy; 2025 Mary, Cause of Our Joy Parish. All rights reserved.</p>
-    </footer>
+    
 </body>
 </html>
